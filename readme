@@ -1,3 +1,9 @@
+make textbox to get stt result
+
+
+
+#refer
 https://github.com/GoogleCloudPlatform/golang-samples/tree/master/speech/livecaption
 
 http://www.codejs.co.kr/음성-인식-api-speech-recognition-api/
+
